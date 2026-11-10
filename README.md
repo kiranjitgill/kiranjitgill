@@ -77,6 +77,8 @@ I also have hands-on experience connecting Magento with **SAP Business One** thr
 | [svsound.ca](https://svsound.ca) | ![Shopify](https://img.shields.io/badge/Shopify-2F8F46?style=flat-square&logo=shopify&logoColor=white) | Subwoofers and speakers |
 | [evossentials.ca](https://evossentials.ca) | ![Shopify](https://img.shields.io/badge/Shopify-2F8F46?style=flat-square&logo=shopify&logoColor=white) | Canadian AV accessories brand |
 
+🚧 **Currently building:** TrueSum, a Shopify site for finance and sales intelligence tools for SAP Business One teams. Launching soon.
+
 ---
 
 ## 🔄 How I Take a Store from Start to Live
@@ -108,9 +110,8 @@ I also have hands-on experience connecting Magento with **SAP Business One** thr
 | Senior Magento Developer | Gem-Sen Distribution | 2023 to present |
 | Magento Developer | Gem-Sen Distribution | 2018 to 2022 |
 | Web Developer | Synergy IT Solutions Inc. | 2016 to 2018 |
-| Data Analyst (Internship) | Metro College of Technology | 2016 to 2017 |
-| Web Developer | Think NEXT Technologies | 2015 to 2016 |
-| Junior Web Developer | Sarv Saksharta | 2012 to 2013 |
+
+Earlier roles in web development since 2012. Full history on [LinkedIn](https://www.linkedin.com/in/kiranjeetgill/).
 
 🎓 **Master of Computer Applications (MCA), Information Technology**, Punjab Technical University
 
